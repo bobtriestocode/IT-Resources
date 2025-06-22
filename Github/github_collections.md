@@ -1,6 +1,12 @@
 # 📚 Awesome Developer Learning Resources
 
-A curated list of high-quality repositories for programmers and web developers. Useful for learning, practicing, and building real-world projects.
+## Table of Contents
+
+1. [Free Programming Books](#-free-programming-books)
+2. [Awesome Repositories to Explore](#-awesome-repositories-to-explore)
+3. [LeetCode & DSA Resources](#-leetcode--dsa-resources)
+4. [Project-Based Learning](#-project-based-learning)
+5. [Web Development for Beginners (by Microsoft)](#-web-development-for-beginners-by-microsoft)
 
 ---
 
