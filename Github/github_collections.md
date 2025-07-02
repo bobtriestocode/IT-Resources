@@ -7,6 +7,7 @@
 3. [LeetCode & DSA Resources](#-leetcode--dsa-resources)
 4. [Project-Based Learning](#-project-based-learning)
 5. [Web Development for Beginners (by Microsoft)](#-web-development-for-beginners-by-microsoft)
+6. [Project Ideas and Resources](#-project-ideas-and-resources)
 
 ---
 
@@ -44,3 +45,8 @@
   A complete, beginner-friendly curriculum to learn web development from scratch. Includes lessons, projects, quizzes, and more.
 
 ---
+
+## Project Ideas and Resources
+
+- **[Project ideas and resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)**
+    This repo has project ideas and resources.
